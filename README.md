@@ -4,13 +4,10 @@
 This project was created as part of the Cryptonic Area Internship Program
 
 ## Project Overview
-Secure web application project focusing on authentication, authorization, and threat hardening.
-
-## Project Duration
-01 Feb – 08 Feb
-
-## Domain
-Cyber Security
+This project involves the development of a secure web application with a strong focus on threat
+hardening and defensive security. It demonstrates how real-world applications can be protected
+against common attacks by implementing secure authentication and authorization flows, strong
+password hashing policies, input validation and sanitization, and secure session handling.
 
 ## Core Security Scope
 - Authentication & Authorization Flow
