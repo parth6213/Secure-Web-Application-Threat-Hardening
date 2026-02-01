@@ -16,7 +16,10 @@ password hashing policies, input validation and sanitization, and secure session
 - Session Handling & Access Control
 
 ## Tech Stack
-(To be updated)
+- Backend: Python (Flask)
+- Authentication: Flask-Login (planned)
+- Password Hashing: Werkzeug
+- Database: SQLite (planned)
 
 ## Application Flow
 (To be updated)
