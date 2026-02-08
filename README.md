@@ -44,7 +44,7 @@ Secure-Web-Application-Threat-Hardening/
 │
 ├── README.md
 └── requirements.txt
-
+...
 
 ## Setup Instructions
 Follow the steps below to run the project locally:
