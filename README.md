@@ -28,7 +28,6 @@ This project helped me gain practical exposure to **secure authentication flows,
 - Secure cookie configuration and session hardening
 
 ---
-
 ## Project Folder Structure
 Secure-Web-Application-Threat-Hardening/
 ├── SRC/
@@ -44,8 +43,6 @@ Secure-Web-Application-Threat-Hardening/
 │
 ├── README.md
 └── requirements.txt
-
-
 ---
 
 ## Setup Instructions
@@ -53,7 +50,7 @@ Follow the steps below to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Secure-Web-Application-Threat-Hardening.git
+   git clone https://github.com/parth6213/Secure-Web-Application-Threat-Hardening.git
    cd Secure-Web-Application-Threat-Hardening
 2. **Install dependencies**
 
