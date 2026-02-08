@@ -88,7 +88,7 @@ Follow the steps below to run the project locally:
 
 **These screenshots demonstrate the actual backend security behavior, not just UI elements.**
 
-## Learning Outcomes##
+## Learning Outcomes
 
 **Through this project, I learned:**
 -> How secure authentication systems are implemented at the backend
@@ -105,7 +105,7 @@ Follow the steps below to run the project locally:
 
 -> How to document and present security implementations professionally
 
-## Technology Stack##
+## Technology Stack
 
 **Backend:** Python, Flask
 
@@ -115,12 +115,12 @@ Follow the steps below to run the project locally:
 
 **Frontend:** HTML, CSS
 
-## Professional Note##
+## Professional Note
 
 This project was created as part of an academic and professional learning program and is intended to demonstrate secure coding practices and threat mitigation techniques used in real-world web applications.
 
 The project has also been shared on LinkedIn to showcase hands-on security implementation experience.
 
-## Author##
+## Author
 **Parth Joshi**
 Cyber Security Intern – Cryptonic Area Virtual Internship Program
