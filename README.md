@@ -27,23 +27,24 @@ This project helped me gain practical exposure to **secure authentication flows,
 - Output escaping to mitigate **XSS attacks**
 - Secure cookie configuration and session hardening
 
----
 ## Project Folder Structure
+
+```text
 Secure-Web-Application-Threat-Hardening/
 ├── SRC/
-│ ├── app.py # Main Flask application
-│ ├── templates/ # HTML templates
-│ ├── static/ # Static assets (CSS, icons)
-│ └── users.db # SQLite database
+│   ├── app.py               # Main Flask application
+│   ├── templates/           # HTML templates
+│   ├── static/              # Static assets (CSS, icons)
+│   └── users.db             # SQLite database
 │
 ├── ScreenShots/
-│ ├── AUTHENTICATION/ # Authentication & brute-force proof
-│ ├── SESSION_HARDENING/ # Session security & access control proof
-│ └── UI/ # User interface screenshots
+│   ├── AUTHENTICATION/      # Authentication & brute-force proof
+│   ├── SESSION_HARDENING/   # Session security & access control proof
+│   └── UI/                  # User interface screenshots
 │
 ├── README.md
 └── requirements.txt
----
+
 
 ## Setup Instructions
 Follow the steps below to run the project locally:
